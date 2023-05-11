@@ -45,7 +45,7 @@ const SearchParams = () => {
             type="text"
             name="location"
             id="location"
-            /* className="search-input" */
+            className="search-input"
             placeholder="Location"
           />
         </label>
@@ -55,7 +55,7 @@ const SearchParams = () => {
           <select
             id="animal"
             name="animal"
-            /* className="search-input" */
+            className="search-input"
             onChange={(e) => {
               setAnimal(e.target.value);
             }}
@@ -70,7 +70,7 @@ const SearchParams = () => {
         <label htmlFor="breed">
           Breed
           <select
-            /*  className="search-input " */
+            className="search-input "
             id="breed"
             disabled={!breeds.length}
             name="breed"

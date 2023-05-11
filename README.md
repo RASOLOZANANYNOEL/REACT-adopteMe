@@ -1,4 +1,4 @@
-# REACT-adopteMe
+# REACT-adoptMe
 
 ADOPTER UN ANIMAL .
 
