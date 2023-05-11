@@ -1,4 +1,4 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -12,7 +12,7 @@
   .grayed-out-disabled {
     @apply disabled:opacity-50;
   }
-}
+} */
 
 * {
   box-sizing: border-box;
